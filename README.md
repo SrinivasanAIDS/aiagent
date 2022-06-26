@@ -1,3 +1,6 @@
+### Ex No. 1
+### Date : 
+
 # Developing AI Agent with PEAS Description
 
 ## AIM
@@ -29,8 +32,8 @@ Implementing the AI agent
 Measure the performance parameters
 
 ## PROGRAM
-```pythonimport random
-
+```python
+import random
 class Thing:
     """
         This represents any physical object that can appear in an Environment.
